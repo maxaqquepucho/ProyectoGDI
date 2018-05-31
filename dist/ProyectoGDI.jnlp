@@ -7,8 +7,8 @@
     </information>
     <update check="always"/>
     <resources>
-        <j2se version="9.0.4+" href="http://java.sun.com/products/autodl/j2se"/>
-        <jar href="ProyectoGDI.jar" size="2625" download="eager"/>
+        <j2se version="10.0.1+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="ProyectoGDI.jar" size="2618" download="eager"/>
     </resources>
     <jfx:javafx-desc width="800" height="600" main-class="proyectogdi.ProyectoGDI" name="ProyectoGDI"/>
 </jnlp>
